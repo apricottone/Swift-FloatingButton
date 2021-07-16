@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  floatingButton
 //
-//  Created by 水梨弘翔 on 2021/07/16.
+//  Created by mizoz on 2021/07/16.
 //
 
 import UIKit
